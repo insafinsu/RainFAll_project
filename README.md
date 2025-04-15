@@ -1,7 +1,10 @@
 # 🌧️ Rainfall Prediction & Dashboard Project
 
 
-Overview
+
+
+-Overview
+
 This project focuses on predicting rainfall patterns using machine learning models and presenting the results through an interactive dashboard. The aim is to provide accurate rainfall predictions that can assist farmers, city planners, and environmental researchers in making informed decisions.
 
 🔍 Problem Statement
