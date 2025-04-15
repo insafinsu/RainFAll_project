@@ -3,15 +3,20 @@
 
 
 
-#Overview
+# Overview
 
 This project focuses on predicting rainfall patterns using machine learning models and presenting the results through an interactive dashboard. The aim is to provide accurate rainfall predictions that can assist farmers, city planners, and environmental researchers in making informed decisions.
 
-🔍 Problem Statement
+# 🔍 Problem Statement
+
+
 Rainfall prediction plays a vital role in agriculture, disaster management, and water resource planning. Traditional forecasting methods often struggle with complex weather patterns and local variations. This project applies data-driven machine learning techniques to improve the accuracy and reliability of rainfall forecasts.
 
-💡 Project Objectives
-Analyze historical weather data to identify trends and patterns.
+# 💡 *Project Objectives
+
+
+
+* Analyze historical weather data to identify trends and patterns.
 
 Build and train a machine learning model to predict the likelihood and quantity of rainfall.
 
