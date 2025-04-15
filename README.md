@@ -7,12 +7,12 @@
 
 This project focuses on predicting rainfall patterns using machine learning models and presenting the results through an interactive dashboard. The aim is to provide accurate rainfall predictions that can assist farmers, city planners, and environmental researchers in making informed decisions.
 
-#🔍 Problem Statement
+# 🔍 Problem Statement
 
 
 Rainfall prediction plays a vital role in agriculture, disaster management, and water resource planning. Traditional forecasting methods often struggle with complex weather patterns and local variations. This project applies data-driven machine learning techniques to improve the accuracy and reliability of rainfall forecasts.
 
-#💡Project Objectives
+# 💡Project Objectives
 
 
 
@@ -41,7 +41,6 @@ Programming Language: Python
 
 # 📈 Workflow
 
-📈 Workflow
 Data Collection:
 Collected historical weather data and performed cleaning, imputation, and feature engineering.
 
@@ -51,9 +50,10 @@ Investigated correlations, trends, missing values, and outliers.
 Model Building & Evaluation:
 ____________________________
 
-* Model	Accuracy
+Model	Accuracy
 * Random Forest (RF)	               0.9213
-XGBoost	                           0.9175
+  
+* XGBoost	                           0.9175
 
 The Random Forest model achieved the highest prediction accuracy.
 
