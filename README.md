@@ -12,7 +12,7 @@ This project focuses on predicting rainfall patterns using machine learning mode
 
 Rainfall prediction plays a vital role in agriculture, disaster management, and water resource planning. Traditional forecasting methods often struggle with complex weather patterns and local variations. This project applies data-driven machine learning techniques to improve the accuracy and reliability of rainfall forecasts.
 
-# *💡 Project Objectives
+# *💡Project Objectives
 
 
 
